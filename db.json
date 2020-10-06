@@ -1,0 +1,25 @@
+{
+
+  "contacts":{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Luke",
+      "last_name": "Skywalker",
+      "email": "luke@Skywalker.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Iron",
+      "last_name": "Man",
+      "email": "iron@ironman.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Bar",
+      "last_name": "Ba",
+      "email": "barba@pappa.com"
+    }
+  ]
+}
+}
